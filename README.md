@@ -2,11 +2,11 @@
 
 - Estou interessado em criar projetos como sites
 
-- Atualmente estou aprendendo C# e phyton
+- Atualmente estou aprendendo C# e JavaScript
 
--  Procuro colaborar em criação de sites
+-  Procuro colaborar em criação de sites/Páginas web
 
--  Como entrar em contato comigo: kurokoakashin573@gmail.com
+-  Como entrar em contato comigo: rafaelbotton2025@gmail.com
 
 - ⚡ Curiosidade:O "Hello, World!": Esse é muitas vezes o primeiro programa que as pessoas escrevem ao aprender uma nova linguagem de programação.
   A tradição começou com o livro "The C Programming Language", de Brian Kernighan e Dennis Ritchie.
